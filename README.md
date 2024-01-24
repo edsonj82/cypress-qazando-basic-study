@@ -1,0 +1,1 @@
+# cypress-qazando-basic-study
